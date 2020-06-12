@@ -1,14 +1,5 @@
 # react-threejs
 
-WIP: Simplest bindings between [React][react] & [Three.js][threejs]
-
-http://fritx.github.io/react-threejs/example/
-
-See also: [vue-threejs](https://github.com/fritx/vue-threejs)
-
-<img width="400" src="https://github.com/fritx/react-threejs/raw/dev/debugging.jpg" />
-
-
 ```js
 import React, { Component } from 'react'
 import { Renderer, Camera, Scene } from 'react-threejs'
@@ -45,6 +36,3 @@ render () {
 }
 ```
 
-
-[react]: https://github.com/facebook/react
-[threejs]: https://github.com/mrdoob/three.js
