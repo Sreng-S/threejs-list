@@ -1,7 +1,6 @@
 {
   "name": "react-threejs",
-  "version": "0.0.3",
-  "repository": "https://github.com/fritx/react-threejs",
+  "version": "0.0.1",
   "main": "lib",
   "scripts": {
     "dev": "webpack -w --progress --config webpack/config.example",
